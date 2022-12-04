@@ -1,0 +1,924 @@
+"General The Qualitative Reasoning (QR) community develops qualitative representations to understand the world from incomplete, imprecise, or uncertain data. Our qualitative models span natural systems (e.g., physics, biology, ecology, geology), social systems (e.g., economics, cultural decision-making), cognitive systems (e.g., conceptual learning, spatial reasoning, intelligent tutors, robotics), and more.The QR community includes researchers in Artificial Intelligence, Engineering, Cognitive Science, Applied Mathematics, and Natural Sciences, commonly seeking to understand, develop, and exploit the ability to reason qualitatively. This broadly includes:
+
+    Developing new formalisms and algorithms for qualitative reasoning.
+    Building and evaluating predictive, prescriptive, diagnostic, or explanatory qualitative models in novel domains.
+    Characterizing how humans learn and reason qualitatively about the (physical) world with incomplete knowledge.
+    Developing novel, formal representations to describe central aspects of our world: time, space, change, uncertainty, causality, and continuity. 
+
+The International Workshop on QR provides a forum for researchers from multiple perspectives to share research progress toward these goals. The workshop will be held at IJCAI-ECAI-2018, Stockholm, Sweden (see Dates).
+Topics of interest include (but are not restricted to):
+
+    Qualitative modeling in physical, biological and social sciences, and in engineering.
+    Representations and techniques for QR.
+    Methods that integrate QR with other forms of knowledge representation and computational approaches, including quantitative and semi-quantitative methods and machine learning.
+    Using QR for diagnosis, design, and monitoring of physical systems.
+    Applications of QR, including education, science, and engineering.
+    Cognitive models of QR, including the use of existing QR formalisms for cognitive modeling and results from other areas of cognitive science for qualitative reasoning.
+    Using QR in understanding language, decision-making, sketches, images, and other kinds of signals and data sources.
+    Formalization, axiomatization, and mathematical foundations of QR.",2018
+"Welcome to the 6th Goal Reasoning Workshop at IJCAI/FAIM-2018 in Stockholm, Sweden!
+Goals are a unifying structure across the variety of intelligent systems, and reasoning about goals takes many forms. In the most encompassing view, intelligent systems can use goal structures (or goal rewards) to manage long-term behavior, anticipate the future, select among priorities, commit to action, generate expectations, assess tradeoffs, resolve the impact of notable events, or learn from experience. As a result, the broad topic of goal reasoning is studied in diverse subfields of AI such as motivated systems, cognitive science, automated planning, and agent-oriented programming to name but a few. This workshop aims to bring together researchers from sometimes distinct subfields to encourage cross-disciplinary discussion on goal reasoning.
+
+Please note the room location is K24 for the Goal Reasoning Workshop
+
+
+*Special Joint Panel with Engineering Multi-Agent Systems (EMAS-2018)
+
+This year we will feature a joint-panel with the Engineering Multi-Agent Systems (EMAS) Workshop on the topic of Requirements and Goals for Agent-based Systems: From Specification and Design to Runtime Representation and Reasoning. We encourage all goal reasoning participants to join for what will likely be an exciting discussion and excellent opportunity to interact with the EMAS community.
+Panellists: Amal El Fallah Seghrouchni, Michael T. Cox, Hector Munoz-Avila, Michael Winikoff
+Panel will take place Saturday, July 14th 14:00 to 15:00 in Room K12
+
+
+Topics include, but are not limited to:
+
+    Theoretical models of goal reasoning
+    The role of goals in self-motivated systems
+    The role of implicit goals or goal rewards in intelligent system design
+    Goal reasoning in hybrid systems
+    Interactive goal reasoning
+    Goal reasoning in humans
+    Goal management
+    Goal formulation
+    Goal prioritization
+    Conversational or narrative reasoning about goals
+    Belief-Desire-Intention
+    Goal-driven autonomy
+    Explanation and diagnosis of notable objects and events that impact goals
+    Goal achievement through planning and scheduling
+    Metareasoning about goals
+    Resolving goals online (e.g., plan repair, replanning, goal deferment, re-goaling)
+    Multi-agent and distributed goal management
+    Learning for goal reasoning
+    Comparisons of goal reasoning with other models of autonomy
+    Evaluation/analyses of goal reasoning
+    Demonstrations or applications of goal reasoning systems
+    Relationship between Goals and Reward/Value Functions",2018
+    
+"The workshop on COGNITIVE VISION solicits contributions addressing computational vision and perception at the interface of language, logic, cognition, and artificial intelligence. The workshop brings together a novel & unique combination of academics and research methodologies encompassing AI, Cognition, and Interaction.
+
+The workshop will feature invited and contributed research advancing the practice of Cognitive Vision particularly from the viewpoints of theories and methods developed within the fields of:
+
+    Artificial Intelligence
+    Computer Vision
+    Spatial Cognition and Computation
+    Cognitive Science and Psychology
+    Visual Perception
+    Cognitive Linguistics
+
+Application domains being addressed include, but are not limited to:
+
+    autonomous driving
+    cognitive robotics
+    vision for UAVs
+    visual art, fashion, cultural heritage
+    vision in biology (e.g., animal, plant)
+    vision and VR
+    vision for social science, humanities
+    vision for psychology, human behaviour studies
+    social signal processing, social media
+    remote sensing, GIS
+    medical imaging
+
+Technical Focus. The principal emphasis of the workshop is on the integration of vision and artificial intelligence from the viewpoints of embodied perception, interaction, and autonomous control. In addition to basic research questions, the workshop addresses diverse application areas where, for instance, the processing and semantic interpretation of (potentially large volumes of) highly dynamic visuo-spatial imagery is central: autonomous systems, cognitive robotics, medical & biological computing, social media, cultural heritage & art, social media, psychology and behavioural research domains where data-centred analytical methods are gaining momentum. Particular themes of high interest solicited by the workshop include:
+
+    methodological integrations between Vision and AI
+    declarative representation and reasoning about spatio-temporal dynamics
+    deep semantics and explainable visual computing (e.g., about space and motion)
+    vision and computational models of narrative
+    cognitive vision and multimodality (e.g., multimodal semantic interpretation)
+    visual perception (e.g., high-level event perception, eye-tracking)
+    applications of visual sensemanking for social science, humanities, and human behaviour studies
+
+The workshop emphasises application areas where explainability and semantic interpretation of dynamic visuo-spatial imagery are central, e.g., for commonsense scene understanding; vision for robotics and HRI; narrative interpretation from the viewpoints of visuo-auditory perception & digital media, sensemaking from (possibly multimodal) human-behaviour data where the principal component is visual imagery.
+
+We welcome contributions, position statements, perspectives addressing the workshop themes from formal, cognitive, computational, engineering, empirical, psychological, and philosophical perspectives. Select indicative topics include:
+
+    deep visuo-spatial semantics
+    commonsense scene understanding
+    semantic question-answering with image, video, point-clouds
+    concept learning and inference from visual stimuli
+    explainable visual interpretation
+    learning relational knowledge from dynamic visuo-spatial stimuli
+    knowledge-based vision systems
+    ontological modelling for scene semantics
+    visual analysis of sketches
+    motion representation (e.g., for embodied control)
+    action, anticipation, and visual stimuli
+    vision, AI, and eye-tracking
+
+    high-level visual perception and eye-tracking
+    egocentric vision, perception
+    declarative reasoning about space and motion
+    computational models of narratives
+    narrative models for storytelling (from stimuli)
+    vision and linguistic summarization
+    (e.g., of social interaction, human behavior)
+    visual perception and embodiment research
+    (e.g., involving eye-tracking)
+    biological and artificial vision
+    biological motion
+    visuo-auditory perception
+    multimodal media annotation tools
+
+Submission Requirements. Submitted papers must be formatted according to IJCAI guidelines (details here: IJCAI-ECAI 18 guidelines); in summary, all contributions should be no longer than 7 single-spaced pages (6 pages max for content, 1 page max for references). Contributions may be submitted as: (1). technical papers; (2) position statements; or (3) work in progress. Submissions should only be made electronically as PDF documents via the paper submission site: (Easychair).
+",2018
+"A workshop on computer games is to be held at IJCAI 2018, Stockholm, Sweden. The topics of the workshop concern all aspects of artificial intelligence for computer games. This includes:
+
+    Monte Carlo methods
+    Deep Learning
+    Reinforcement Learning
+    Heuristic search
+    Board games
+    Card games
+    Video games
+    General Game Playing
+    Perfect and imperfect information games
+    Puzzles and single player games
+    Multi-player games
+    Serious games
+    Combinatorial game theory",2018
+"Topics of interest
+
+Topics of interest include but are not limited to:
+
+    Concept lattices and related structures:
+    pattern structures, relational structures, distributive lattices.
+    Knowledge discovery and data mining:
+    pattern mining, association rules, attribute implications, subgroup discovery, exceptional model mining, data dependencies, attribute exploration, stability, projections, interestingness measures, MDL principle, mining of complex data, triadic and polyadic analysis.
+    Knowledge and data engineering:
+    knowledge representation, reasoning, ontology engineering, mining the web of data, text mining, data quality checking.
+    Analyzing the potential of FCA in supporting hybrid systems:
+    how to combine FCA and data mining algorithms, such as deep learning for building hybrid knowledge discovery systems, producing explanations, and assessing system fairness.
+    Analyzing the potential of FCA in AI tasks
+    such as classification, clustering, biclustering, information retrieval, navigation, recommendation, text processing, visualization, pattern recognition, analysis of social networks.
+    Practical applications
+    in agronomy, astronomy, biology, chemistry, finance, manufacturing, medicine...
+
+The workshop will include time for audience discussion aimed at better understanding of of the issues, challenges, and ideas being presented.",2018
+"Six decades of failure to pass the Turing test by computers leads us to rethink previous approaches, lean towards new technologies and knowledge sources, and combine them with advances in philosophy, linguistics and cognitive science. We stress the fact that the age of information explosion and more powerful learning algorithms gives us a whole new spectrum of possibilities for creating an intelligent machine. Many marvelous ideas of the dawn of Artificial Intelligence research faced problems of exceptions and the impossibility of manual input of all needed knowledge, but today we have vast amounts of data from sensors, images and text so that we can rethink classical AI methods and approaches to dialog systems. The increased use of WWW, Internet of Things or knowledge bases, etc. could allow us to determine standard human behaviors, emotions or even moral reasoning according to the Wisdom of Crowds hypothesis. Collective input data could also help to retrieve knowledge about the physical world we live in. By combining Natural Language Processing methods with cognitive architectures and philosophy of mind, we can discover a new range of intelligent systems that understand us, our environment and our feelings. In this context, we see a role for NLP and cognitive approaches to play in developing a new generation of user- friendly, more autonomous but still safe systems that, through interaction with the user and the world, can learn how to reason, behave or speak naturally. We are interested in original papers on systems and ideas for systems that use common sense knowledge and reasoning, affective computing, cognitive methods, learning from broad sets of data and acquiring knowledge, or language and user preferences.",2018
+"Model-based methods in machine learning aim to speed up the learning process by exploiting an explicit representation of the underlying model. In Reinforcement Learning (RL), classic model-based approaches leverage the available samples to construct an estimate of the underlying environment. There are several advantages in having an explicit model representation: I) learning behaviors is usually faster and more sample efficient; II) prior knowledge and experience can be integrated more easily; III) the model can be flexibly reused for a wide variety of goals and objectives. Model-based approaches can also enable counterfactual reasoning (“what would have happened if …”) which is exceedingly difficult without a model (e.g., using value-based approaches). They also enable easier transfer learning when reward (and to some extent the dynamics) changes. More generally, the ability to build an internal representation of the environment can be viewed as a hallmark of intelligence. Indeed, prediction and intuitive physics often figure in neuroscience, psychology, and cognitive science research into the development of internal representations in the human brain. Finally, model-based methods are of substantial theoretical and practical importance, since they have shown to be able to learn faster in large continuous environments, to provide insights in the way humans behave, and to be at the core theoretically efficient/optimal methods for exploration-exploitation in discrete domains. However, model-based algorithms are not without their challenges: constructing accurate models in complex real-world environments can be difficult, and imperfect models can give rise to highly suboptimal behavior. Although recent years have seen substantial advances in generative modeling, prediction, image generation, and other types of forecasting applications, many of these advances have yet to produce a large impact on reinforcement learning and control.
+
+The aim of this workshop is to investigate questions in model-based reinforcement learning, as well as how tools and ideas from other generative modelling and prediction fields can influence the development of novel decision making and control algorithms. For example, can generative adversarial networks provide an answer to the question of which loss function should be used to fit a model? How can model-free reinforcement learning ideas influence model-based learning while benefiting from its improved efficiency and flexibility? Can we design hybrid approaches that integrates model-free and model-based learning? how can the best innovations in prediction and time series modelling translate into improved reinforcement learning algorithms? Alongside that, we encourage submission on any topic related to core model-based reinforcement learning. Some of the open questions are: How can we exploit side information? Is it possible to design algorithms for optimal exploration-exploitation in large domains? How can we incorporate safety in model-based approaches? What are the current limits of model-based approaches and what can we expect in the future? Which are the classes of environments we are able to represent (e.g., MDP, POMDPS and PSR)? And what are the suited models (e.g., NN, RNN)? Can we design efficient (even theoretically) approaches for particular classes of problems (e.g., linearly-solvable MDPs or linear-quadratic regulator)?",2018
+"The one-day workshop focuses on the technical aspects of privacy research with invited and contributed talks by distinguished researchers in the area. We will conclude the workshop with a panel discussion about ethical and regulatory aspects. The programme of the workshop will emphasize the diversity of points of view on the problem of privacy, exemplified by the approaches pursued by specific sub-communities scattered across the different meetings comprising the Federated Artificial Intelligence Meeting. We will also ensure there is ample time for discussions that encourage networking between researches from these different sub-communities, which should result in mutually beneficial new long-term collaborations.",2018
+"MRC aims to bring together researchers and practitioners from different communities, both in industry and academia, to study, understand, and explore issues surrounding context and to share their problems, techniques and success stories across different areas. By considering modelling and reasoning approaches for contextualised systems from a broad range of areas, the workshop will facilitate the sharing of problems, techniques, and solutions. The workshop covers different understandings of what context is, different approaches to automatically learn about context from data and to modelling context, mechanisms and techniques for (structured) storage of contextual information, effective ways to retrieve it, and methods for enabling integration of context and application knowledge.
+
+MRC invites papers on different aspects of context, on theory as well as on applications. We particularly invite contributions on topics of autonomy and context. Although hosted at the most prestigious AI conference, we explicitly invite contributions from other fields of study in order to further trans- and interdisciplinary approaches.
+
+Please check our call for papers and submission instructions for details.
+Background to MRC
+
+MRC is an interdisciplinary workshop with a focus on applications within computer science. Because of this focus the workshop primarily attracts participants from within the computer science community and specifically within artificial intelligence. However, MRC has always had a strong interdisciplinary appeal and does draw from fields such as linguistics, semiotics, philosophy, mathematics, cognitive science, social sciences and psychology as well as various sub-fields within computer science. This is also reflected in the list of program committee members past and present.
+
+MRC has traditionally been held on major AI-conferences such as ECAI, IJCAI and AAAI or conferences focusing on context from different perspectives such as the International and Interdisciplinary Conference on Modeling and Using Context (CONTEXT). These workshops have been successful in raising awareness about the importance of context as a major issue for future intelligent systems, especially for the use of mobile devices and current research on autononomous computing. At the same time, advances in methodologies for modelling and retrieving context have been made and MRC continues to provide a venue for the discussion and furthering of research into issues surrounding context.",2018
+"The Knowledge Discovery in Healthcare Data (KDH) workshop series was established in 2016 to present AI research efforts to solve pressing problems in healthcare. The workshop series aims to bring together clinical and AI researchers to foster collaborative discussions. This year, the workshop will be co-located with IJCAI/ECAI 2018 in Stockholm, Sweden and the focus is on learning healthcare systems. For the first time, this workshop will feature a challenge: The Machine Learning Blood Glucose Level Prediction Challenge.
+
+The notion of the learning healthcare system has been put forward to denote the translation of routinely collected data into knowledge that drives the continual improvement of medical care. This notion has been described in many forms, but each follows a similar cycle of assembling, analyzing and interpreting data from multiple sources (clinical records, guidelines, patient-provided data including wearables, omic data, etc.), followed by feeding the acquired knowledge back into clinical practice. This framework aims to provide personalised recommendations and decision support tools to aid both patients and care providers, to improve outcomes and personalise care.
+
+This framework also extends the range of actions possible in response to patient monitoring data, for example, alerting patients or automatically adjusting insulin doses when blood glucose levels are predicted to go out of range.  Blood glucose level prediction is a challenging task for AI researchers with the potential to improve the health and wellbeing of people with diabetes.  In the Machine Learning Blood Glucose Level Prediction (BGLP) Challenge, researchers will come together to compare the efficacy of different machine learning prediction approaches on a standard set of real patient data.",2018
+"Deep learning has shown impressive performance improvements on a variety of tasks in vision, speech and language domains. However, a large amount of labeled data is often needed to deliver these remarkable accuracy gains. The goal of this workshop is to facilitate discussion on the role of equivariance/ invariance of feature maps, including their synergies with unsupervised/self-supervised learning methods that define and solve auxiliary tasks on unlabeled data to learn representations (such as auto-encoding, context prediction, predicting one modality from other, etc.), towards reducing the dependence on labeled examples. Apart from the group-theoretical notions of equivariance and invariance, the workshop also welcomes contributions with a non-group-theoretical and relaxed notion of equivariance and invariance with respect to a set of transformations (possibly input specific and learned from data).
+
+We welcome submissions on topics including (but not limited to):
+
+    Learning desired equivariances / invariances for a given prediction task from data (e.g., from massive amounts of unlabeled data, from auxiliary labels, from multiple views, or from side-information when available)
+    Learning transferable invariances: feature maps that are equivariant/invariant with respect to domain- or task-specific nuisance factors while being suitable for transfer learning (on a target domain or task)
+    Learning disentangled representations for label efficiency 
+    Learning equivariant / invariant feature maps from structure when it is available (e.g., temporal ordering structure in videos)
+    Incorporating known equivariances / invariances (from domain knowledge, e.g., rotation and scale for images, permutations for sets, etc.) as inductive biases
+    Architectural priors for equivariant features 
+    Synergies with unsupervised / self-supervised feature learning methods that define and solve auxiliary tasks on unlabeled data (such as auto-encoding, context prediction, etc.) to learn representation maps
+    Hierarchical representations with interplay between invariance and equivariance 
+    Visualizing/understanding the equivariances and invariances learned by current popular deep neural net architectures",2018
+"Overview
+
+This workshop aims to bring together a growing community of researchers, practitioners, and policymakers concerned with fairness, accountability, and transparency in machine learning. The past several years have seen growing recognition that machine learning raises new ethical, legal, and technical challenges. In particular, policymakers, regulators, and advocates have expressed fears about the potential discriminatory impact of machine learning models, with many calling for research into how we can use automated decision-making tools without inadvertently encoding and perpetuating societal biases. Concurrently, there has been increasing concern that the complexity of machine learning models limits their use in critical applications involving humans, such as loan approval to recidivism prediction. Most recently, there is emerging concern that the standard emphasis in machine learning on prediction rather than causation inhibits the ability of data-driven tools to produce meaningful, actionable recommendations.
+
+The goal of this workshop is to provide researchers with a venue to explore how to characterize and address these issues in ways that are computationally rigorous and scientifically defensible. We seek contributions that attempt to measure and mitigate bias in machine learning, to audit and evaluate machine learning models, and to render such models more interpretable and their decisions more explainable.
+
+This year, the workshop is co-located with ICML, and will consist of invited talks, invited panels, contributed talks, as well as a poster session. We welcome paper submissions from researchers and practitioners that address any issue of fairness, accountability, and transparency related to machine learning. In particular, we will place a special emphasis on causal inference to address questions of fairness, and to create recommendation systems directed at altering causal factors. We will also focus on issues surrounding the collection, measurement, and mitigation of biased data.
+Topics of Interest
+Fairness:
+
+    How should we define, measure, and deal with biases in training data sets? Can we design data collection practices that limit the effect of bias? How can we use additional sources of information to assess and correct for bias?
+    What are meaningful formal fairness criteria? How do different criteria relate and trade-off? What are their limitations?
+    Should we turn to the law for definitions of fairness? Are proposed formal fairness criteria reconcilable with the law?
+    How can we use the tools of causal inference to reason about fairness in machine learning? Can causal inference lead to actionable recommendations and interventions? How can we design and evaluate the effect of interventions?
+    Can we develop definitions of discrimination and disparate impact that move beyond distributional constraints such as demographic parity or the 80% rule?
+    Who should decide what is fair when fairness becomes a machine learning objective?
+    Are there any dangers in turning questions of fairness into computational problems?
+    What are the societal implications of algorithmic experimentation and exploration? How can we manage the cost that such experimentation might pose to individuals? 
+
+Accountability:
+
+    What would human review entail if models were available for direct inspection?
+    Are there practical methods to test existing algorithms for compliance with a policy?
+    Can we prove that an algorithm behaves in some way without having to reveal the algorithm? Can we achieve accountability without transparency?
+    How can we conduct reliable empirical black-box testing and/or reverse engineer algorithms to test for ethically salient differential treatment?
+    Can we demonstrate the causal origins of the outcome predicted by a model?
+    What constitutes sufficient evidence to someone other than the creator of a model that the model functions as intended? Can we describe the goals of modeling effectively?
+    What are the societal implications of autonomous experimentation? How can we manage the risks that such experimentation might pose to users? 
+
+Transparency:
+
+    How can we develop interpretable machine learning methods that provide ways to manage the complexity of a model and/or generate meaningful explanations?
+    Can we field interpretable methods in a way that does not reveal private information used in the construction of the model?
+    Can we use adversarial conditions to learn about the inner workings of inscrutable algorithms? Can we learn from the ways they fail on edge cases?
+    How can we use game theory and machine learning to build fully transparent, but robust models using signals that people would face severe costs in trying to manipulate?",2018
+"Overview
+
+The Third Annual Workshop on Human Interpretability in Machine Learning (WHI 2018), held in conjunction with ICML 2018 and the Federated Artificial Intelligence Meeting, will bring together researchers who study the interpretability of predictive models, develop interpretable machine learning algorithms, and develop methodology to interpret black-box machine learning models. They will exchange ideas on these and allied topics, including:
+
+    Quantifying and axiomatizing interpretability,
+    Psychology of human concept learning,
+    Rule learning,
+    Symbolic regression,
+    Case-based reasoning,
+    Generalized additive models,
+    Interpretation of black-box models (including deep neural networks), 
+    Causality of predictive models, 
+    Visual analytics, and
+    Interpretability in reinforcement learning.",2018
+"Call for papers
+
+Building effective and user-friendly transportation systems is one of the big challenges for engineers in the 21st century. The rapid change of location, enabled by plane, high-speed rail, sea and road travel, has constantly become easier and more natural. These days we travel without any of the difficulties that accompanied taking a trip less than a century ago. All we have to do is to organize and to pick up the transport mode that comes closest to our objectives. In much the same way, many new opportunities for the delivery of goods are being explored and commercially exploited.
+
+The purpose of this workshop is to bring researchers and practitioners together in order to set up visions on how Agent technologies, Machine Learning and Artificial Intelligent techniques in general, can be and are used for today's isolated IT-tools so as to model, simulate, and manage large-scale complex transportation systems. Therefore, we are interested in research papers, case studies and practitioners' reports on the implementation and use of intelligent agents in all areas related to transportation, traffic and logistics. Besides running real-world applications, we are also interested in papers concerning demonstrators or testbeds that are still under development. Conceptual papers and those reporting on particular components of transportation systems are also welcome. 
+
+As for the 2016 edition, a publication of selected extended versions of workshop papers in a special issue of an international journal is planned. 
+
+
+Relevant topics: 
+
+    Applications of AI technology in traffic, transportation, and transport logistics 
+    Optimization (e.g., traffic assignment, routing, route choice)
+    Autonomic transportation systems
+    Coordination in intelligent transportation systems 
+    Intelligent, adaptive traffic control
+    Distributed decision making in traffic, transportation and transport logistics
+    Multi-agent systems for intelligent vehicles
+    Machine learning and multi-agent learning for traffic and transportation (also based on, e.g., reinforcement learning and deep learning)
+    Mobile devices in smart transportation systems 
+    Intelligent monitoring of transportation systems
+    Data collection, filtering and distribution of traffic information and transportation data 
+    Autonomous vehicles and collaborative driving
+    Self-* properties of traffic systems
+    Multilevel goals and goal conflicts in traffic and transportation
+    Agent-based approaches to modelling driver behaviour  
+    Cognitive approaches to modelling traffic participants
+    Agent-based simulation of traffic and transportation systems 
+    Agent-based pedestrian and crowd simulation
+    Future technologies: opportunities for smart transportation 
+    Shared and on-demand mobility (car sharing, ride sharing, Mobility as a Service etc)
+
+",2018
+"About
+
+The ABMUS2018 workshop on Agent-based modelling of urban systems will held on the 15th of July 2018 in Stockholm, Sweden. The workshop is part of the Federated AI Meeting (FAIM2018), which includes the AAMAS2018 conference and IJCAI-ECAI (International Joint Conference on Artificial Intelligence and the European Conference on Artificial Intelligence). It is the follow-up of ABMUS2016 held in Singapore during AAMAS2016 on the 10th of May 2016 and ABMUS2017 held in Sao Paulo during AAMAS2017 on the 8th of May 2017.
+
+The central goal of this workshop is to bring together the community of researchers and practitioners who use agent-based models and multi-agent systems to understand and manage cities and urban infrastructure systems. Through the exchange of ideas and state-of-the-art within this area, we will pool together current thinking to discuss avenues of fruitful research and methodological challenges we face in building robust, realistic, and trusted models of urban systems.
+
+Drawing from a recognised ongoing challenge associated with communication of agent-based and multi-agent systems to applied audiences in industry and government, an overarching theme for the workshop this year will be balancing insight and numbers, asking participants to emphasise how modelled systems have balanced the provision of mechanistic insight into complex challenges facing urban systems with the practical challenges of producing results for real-world decision support. We will discuss challenges associated with model development, deployment and communication, as well as developments in interfaces and stakeholder engagement.
+Call for Papers
+
+Agent-based modelling has proven itself to be a useful technique for understanding and predicting changes and impact of urban form and policy on urban systems. However, recognised challenges remain in designing, developing and implementing trusted models that can be used by industry and governments to enhance decision-making. This workshop invites submissions from researchers and practitioners who use agent-based models and agent systems to understand, explore, and manage cities and urban infrastructure systems.
+
+In particular, we invite presentations that describe efforts and challenges in design, development and deployment of urban system models that have balanced the provision of mechanistic insight into complex challenges facing urban systems vs practical challenges of producing 'numbers' for real-world decision support for industry and government.
+
+Workshop topics include, but are not limited to, the following:
+
+    Large scale urban simulation applications
+    Spatially explicit micro-simulation modelling
+    Agent-based modelling of urban transport, land-use, housing, energy, health, etc.
+    Simulation of household behaviour and technology adoption
+    Localized population synthesis
+    Multi-scale urban systems (temporal and spatial)
+    Social simulation of demographic transitions
+    Model development and co-development processes and protocols
+    Data structures for simulating urban environments
+    (Multi-)agent systems to provide decision support in e.g. transport, energy and air quality
+    Connection of simulation models to social and geographical theory
+    Government and industry engagement in model development and uptake
+    Processes of model co-development to enhance decision-making in urban systems
+    Development in model interfaces and engagement that enhance model uptake
+
+If accepted, each presenter will be given a short time slot (max 10 minutes) to introduce their paper and/or case study, followed by 5-10 minutes in which presenters will share their views on the balancing insight and numbers theme. After three presentations there will be 20-30 minutes of group discussion in which presenters will act as panel members.
+
+Papers should be submitted as an extended abstract (2-4 pages) through the workshop website. Your abstract should include a Title as well as all authors and affiliations. It should articulate the objectives of the paper and provide a brief but thorough description of the research related to the theme of the workshop and the expected gain by those attending the presentation. Accepted authors will be invited to submit a full paper after the workshop to be included in the post-workshop proceedings.",2018
+"ALA 2018 - Workshop at the Federated AI Meeting 2018
+
+Adaptive Learning Agents (ALA) encompasses diverse fields such as Computer Science, Software Engineering, Biology, as well as Cognitive and Social Sciences. The ALA workshop will focus on agents and multiagent systems which employ learning or adaptation.
+
+This year's edition of ALA will be held as part of the joint workshop program at the Federated AI Meeting (FAIM) which will take place in Stockholm. Co-located conferences at the FAIM include AAMAS, ICML, IJCAI-ECAI, ICCBR and SOCS.
+
+This workshop is a continuation of the long running AAMAS series of workshops on adaptive agents, now in its sixteenth year. Previous editions of this workshop may be found at the following urls:
+
+    ALA-17
+    ALA-16
+    ALA-15
+    ALA-14
+    ALA-13
+    ALA-12
+    ALA-11
+    ALA-10
+    ALA-09
+    ALAMAS+ALAg-08
+    ALAg-07
+    Earlier editions
+
+The goal of this workshop is to increase awareness of and interest in adaptive agent research, encourage collaboration and give a representative overview of current research in the area of adaptive and learning agents and multi-agent systems. It aims at bringing together not only scientists from different areas of computer science (e.g. agent architectures, reinforcement learning, evolutionary algorithms) but also from different fields studying similar concepts (e.g. game theory, bio-inspired control, mechanism design).
+
+The workshop will serve as an inclusive forum for the discussion of ongoing or completed work covering both theoretical and practical aspects of adaptive and learning agents and multi-agent systems.
+
+This workshop will focus on all aspects of adaptive and learning agents and multi-agent systems with a particular amphasis on how to modify established learning techniques and/or create new learning paradigms to address the many challenges presented by complex real-world problems. The topics of interest include but are not limited to:
+
+    Novel combinations of reinforcement and supervised learning approaches
+    Integrated learning approaches that work with other agent reasoning modules like negotiation, trust models, coordination, etc.
+    Supervised multi-agent learning
+    Reinforcement learning (single- and multi-agent)
+    Novel deep learning approaches for adaptive single- and multi-agent systems
+    Multi-objective optimisation in single- and multi-agent systems
+    Planning (single- and multi-agent)
+    Reasoning (single- and multi-agent)
+    Distributed learning
+    Adaptation and learning in dynamic environments
+    Evolution of agents in complex environments
+    Co-evolution of agents in a multi-agent setting
+    Cooperative exploration and learning to cooperate and collaborate
+    Learning trust and reputation
+    Communication restrictions and their impact on multi-agent coordination
+    Design of reward structure and fitness measures for coordination
+    Scaling learning techniques to large systems of learning and adaptive agents
+    Emergent behaviour in adaptive multi-agent systems
+    Game theoretical analysis of adaptive multi-agent systems
+    Neuro-control in multi-agent systems
+    Bio-inspired multi-agent systems
+    Applications of adaptive and learning agents and multi-agent systems to real world complex systems
+
+Extended and revised versions of papers presented at the workshop will be eligible for inclusion in a journal special issue (see below).",2018
+"Artificial Intelligence (AI) and Psychology are deeply interconnected and have been influencing each other’s development. On the one hand, creating artificial beings that can truly think and behave like humans requires the understanding of human psychology and the use of such understanding to develop better AI agents. On the other hand, given the complexity of human minds and their manifestation of behavioral flexibility, it requires state-of-the-art AI technologies including Machine Learning and Data Mining to analyze huge amounts of human behavioral evidence and model the complexity of human minds to better understand, predict and influence human behavior.
+
+Driven by the complementary nature of applying AI and Machine Learning (ML) techniques to achieve a better understanding of human psychology and building intelligent AI agents that can truly understand and collaborate with humans, our proposed workshop aims at covering two highly related research themes:
+
+    Developing novel AI/ML techniques to model, analyze and predict the psychological characteristics and behavior of humans (e.g., personality, trust, empathy, self-control, stress, emotion, attitude, morality, and decision-making) from large, rich and diverse data sources (e.g., social media, sensors, text and conversations).
+    Developing realistic AI agents enhanced with psychological insights (e.g., empathetic, trustworthy, responsible, and hyper-personalized AI agents tailored to individual traits and behavior) to facilitate better human-computer interaction and collaboration.
+",2018
+"According to a United Nations’ report on World Population Aging (2015), the number of people in the world aged 60 or over is projected to grow to 2.1 billion by year 2050. Aging can come with various complexities and challenges, such as frailty and decline in cognitive and mental health of a person. These changes affect a person’s everyday life, resulting in decreased social participation, lack of physical activity, and vulnerability to injury and disability, that can be exacerbated by the occurrence of various acute health events, such strokes, or long term illnesses. 
+
+Assistive technology refers to any device, equipment or tool that is used to maintain, increase or improve the functional capabilities of older adults or persons with disabilities. The field of assistive technology amalgamates several multi-disciplinary areas including computer science, rehabilitation engineering, data mining, clinical studies, health care, and psychology. The idea of assistive technological solutions is to promote independent, active and healthy aging with a specific focus on older adults, especially with mild cognitive impairments.
+
+Collecting and mining health data using assistive technology devices is a challenging task. Leveraging Artificial Intelligence (AI) techniques and building novel machine learning (ML) models is essential to make advancements in the field of aging and technology. Building AI models on health data will facilitate independent assisted living, promote healthy and active lifestyle, and manage rehabilitation routines effectively. To reason about the collected data, to classify it and to detect abnormalities, new AI tools and methods are required. 
+
+With this workshop, we will bring together researchers from different sub-fields of AI in general, agent based modelling and machine learning to identify and approach the ARIAL-related problems. We will also facilitate discussion, interaction, and comparison of approaches, methods, and ideas related to the domain of aging and technology.",2018
+"Call for Papers
+
+Communication is of crucial importance in home and geriatric care. Caregivers are expected not only to facilitate information, guidance and instruction, but also to interact as trustworthy companions of caretakers. In the light of the fact that more and more individuals are increasingly in need of home and geriatric care, ensuring adequate service for all has become a societal challenge. With the increasing maturity of verbal and non-verbal communication understanding and generation technologies, knowledge-based dialogue management techniques, external knowledge acquisition, and virtual character and robot design, questions regarding the use of intelligent conversational agents in home and geriatric applications has become increasingly important. At the same time, the home and geriatric care context implies specific technical and ethical challenges with respect to language, social behaviour, data and knowledge management, etc. An increasing number of research initiatives address these challenges. The aim of the workshop is to bring together researchers working on different aspects of intelligent conversational agents and related fields, practitioners who deploy such agents in the context of home and geriatric care applications, and critical users, who can report about their experience with the use of conversational agents within these applications. Apart from cutting edge technical submissions, contributions that address the challenge of the use of agents in home and geriatric care from the ethical perspective are welcome. The topics of interest include, but are not restricted to:
+
+    Specifics of the home and geriatric care context for conversational agents
+    Ethical challenges in home and geriatric care applications
+    Design of intelligent conversational agents for home and geriatric care applications
+    Personalized agent embodiments
+    The use of virtual and augmented reality techniques in home and geriatric care applications
+    Personalized knowledge and data management in conversational agents
+    Knowledge modelling in conversational agents
+    Question answering techniques for conversational agents
+    Semantic data fusion and reasoning for multimodal interaction with elderly
+    Dialogue management for highly unpredictable conversation shifts
+    Adaptation of the language style and vocabulary of conversational agents to a targeted user
+    Emotional behaviour of conversational agents in emotionally charged contexts
+    Multimodal interaction strategies in conversations with elderly
+    Conversational agent interaction with mentally challenged users
+",2018
+"Our primary goals for this workshop are to draw the attention of the AI community to a novel and rich application domain, namely Synthetic Biology, and to build mutually beneficial collaborations between the two communities. Synthetic biology is the systematic design and engineering of biological systems. Synthetic organisms are currently designed at the DNA level, which limits the complexity of the systems. In this workshop we will have invited speakers introducing the domain, describing the current workflow used by synthetic biologists. We will identify open problems and challenges in the Synthetic Biology and AI intersection through discussions and demonstrate the feasibility of progress through contributed talks. We will also have a high level talk about different AI techniques targeted towards participants with a Synthetic Biology background.
+
+This workshop at FAIM 2018 seeks to bring together the AI and Synthetic Biology communities. We believe that the time is ripe to gather researchers from synthetic biology and AI communities to cultivate a multi-disciplinary research community that can benefit both areas. For AI researchers it will be a never before explored novel domain with unique challenges, whereas for the synthetic biology community it will be an opportunity to break the complexity barrier it is facing.
+
+AI techniques can help address the challenges that synthetic biology faces including:
+
+    representation of knowledge (e.g., semantic networks, frame representations, domain-specific languages, data exchange),
+    prediction and modeling of complex and multi-cellular behavior (e.g., multi- agent systems),
+    acquisition of knowledge (e.g., machine learning, hypothesis generation),
+    planning and decision making (e.g., expert systems, constraint-based reasoning, planning under uncertainty), and
+    automated action (e.g., robotics).
+
+We seek both position papers (up to 2 pages) and short papers (up to 6 pages) that address current or future research problems and/or approaches at the intersection of synthetic biology and AI.",2018
+"The Workshop
+
+The Artificial Intelligence for Multimodal Human Robot Interaction (AI-MHRI) workshop offers a platform for researchers at the intersection of AI and Multimodal HRI. HRI research studies the interaction between humans and increasingly intelligent and autonomous machines, from the sensory to the physical modality, from problems of learning, social signals, collaboration, to design. Sophisticated AI models and implementations are critical in this endeavor but are not often explicitly addressed. AI models and implementations, on their part, are often developed without sufficiently considering how humans interact with them, whether they understand them, trust them, and are willing to collaborate with them. We thus believe that AI is a significant challenge in HRI research and HRI is a significant challenge in AI research, and this mutual significance motivates our workshop.
+
+Because the AI-MHRI workshop takes place during the IJCAI/ECAI, AAMAS, and ICML meetings, researchers working on AI, Autonomous Systems, and Machine Learning have an opportunity to contribute to the emerging connection between AI and HRI. This workshop builds on previous AAAI Fall Symposia (AI-HRI 2014, 2015, 2016, and 2017, see http://ai-hri.github.io) and connects on previous workshops in the area of social signals in HRI (e.g., Vocal Interactivity in-and-between Humans, Animals and Robots; see http://vihar-2017.vihar.org). The AI-MHRI workshop, however, puts a greater emphasis on discussions, joint research development, and identifying promising future directions of the intersection of these fields, rather than strictly adhering to the standard “mini-conference” format.",2018
+"The objective of the workshop is to be an interdisciplinary forum where to discuss agent-based augmented worlds, from their conceptual and theoretical foundations, to their design and engineering, as well as their applications to specific domains.
+In particular, it aims at exploring (1) the fruitful integration of intelligent agent/multi-agent -based models, theories and technologies within the context of augmented/mixed reality systems and augmented human systems; (2) the impact that these augmented worlds can have on making individual and collective human/agent actions more effective, on enhancing human/agent reasoning capability, imagination, learning, sociality, and so on. On how activities and processes can be (re-)shaped. On how the physical environment where these augmented worlds are instantiated can be (re-)shaped, accordingly; (3) agent-based augment worlds as a lab where to explore novel forms of human augmentation - besides reality augmentation - along different dimensions, such as cognition and sociality.
+Topics of Interest
+
+    Models and theories of agency and MAS living in/shaping Augmented Worlds
+    Methodologies for designing agent systems living in/shaping Augmented Worlds
+    Methodologies for evaluating applications using MAS living in/shaping Augmented Worlds
+    Interaction, coordination, cooperation models inside Augmented worlds
+    Agent-based platforms and technologies for developing Augmented Worlds
+    Human augmentation by means of agents and multi-agent systems in Augmented Worlds
+    Real-world applications designed using agent-based Augmented Worlds
+    Future applications of Agent Oriented Programming to develop Augmented Reality Applications based within Augmented Worlds.",2018
+"Call for Papers
+
+The Joint Workshop on Architectures and Evaluation for Generality, Autonomy and Progress in AI (AEGAP) focuses on our field's original grand dream: the creation of cognitive autonomous agents with general intelligence that matches (or exceeds) that of humans. We want AI that understands its users and their values so it we can form beneficial and satisfying relationships with them.
+
+In 2018, it is about three decades since John McCarthy published a new version of his 1971 Turing Award Lecture on “Generality in Artificial Intelligence”. Since he coined the term Artificial Intelligence, the field has come a long way. Progress has certainly been made as AI grew from a niche science to a multi-billion dollar endeavor that solves many tasks and a household term that is often viewed to be the future of everything. However, it is not clear how much progress has been made exactly, and especially with respect to AI's grand dream.
+
+As the task turned out to be more difficult than anticipated in the 1950s, a divide-and-conquer approach was adopted that has resulted in a very successful but fractured field. AEGAP aims to bring together researchers from different sub-disciplines to discuss how the different approaches and techniques can contribute to the goal of building beneficial AI with high levels of generality and autonomy. To achieve this goal we will likely need to build large-scale, complex and dynamic architectures that can integrate bottom-up and top-down approaches. One hopeful avenue may be to combine logic- or rule-based top-down approaches with neuroscience-inspired bottom-up approaches, so that intelligence might emerge from their interplay.
+
+This cannot be done without methods for evaluating the different approaches to AI as they exist now and are developed in the future. While we can readily see the performance of AI systems in specific domains, it is more difficult to assess progress in AI, ML and autonomous agents when we put the focus on generality and autonomy. Real progress in this direction only takes place when a system exhibits enough autonomous flexibility to find a diversity of solutions for a range of tasks, some of which may not be known until after the system is deployed. Many evaluation platforms exist (see here), but open research questions remain about how to define batteries or curricula of tasks that capture notions such as generality, transfer or learning to learn, with gradients of difficulty that actually represent the progress we want to make in several directions. The question of fully autonomous reproducibility must also be understood as the goals become more open and general.
+
+We welcome regular papers, short papers, demo papers about benchmarks or tools, and position papers, and encourage discussions over a broad list of topics. As AEGAP is the result of a merger between the Third Workshop on Evaluating Generality and Progress in Artificial Intelligence (EGPAI), the Second Workshop on Architectures for Generality & Autonomy (AGA) and the First Workshop on General AI Architecture of Emergence and Autonomy (AAEA), we are interested in submissions on both evaluation and architectures:
+IJCAI-18
+    Analysis of requirements for autonomy and generality
+    Design proposals for cognitive architectures targeting generality and/or autonomy
+    Complex layered networked systems and architectures
+    Synergies between AI approaches
+    Integration of top-down and bottom-up approaches (e.g. logic-based and neural-inspired)
+    Emergence of (symbolic) logic from neural networks
+    New programming languages relevant to generality and autonomy
+    New methodologies relevant to generality and autonomy
+    New architectural principles relevant to generality and autonomy
+    Complex (e.g. layered, hierarchical or recursive) network architectures for generality and autonomy
+    New theoretical insights relevant to generality and autonomy
+    Motivation (intrinsic, extrinsic) for enabling autonomous behavior selection and learning
+    Analysis of the potential and limitations of existing approaches
+    Methods to achieve general ((super)human-like) performance
+    Methods for epigenetic development
+    Baby machines and experience-based, continuous, online learning
+    Seed-based programming and self-programming
+    Education for systems with general intelligence and high levels of autonomy
+    Understanding and comprehension
+    Reasoning and common-sense
+    Acquisition of causal models
+    Cumulative knowledge acquisition
+    Curiosity, emotion and motivation for enabling autonomous behavior and knowledge acquisition
+    Meta-planning, reflection and self-improvement
+    Principles of swarm intelligence for generality and autonomy
+",2018
+"The AI for Wildlife Conservation (AIWC) Workshop was held at the Federated Artificial Intelligence Meeting (FAIM) in Stockholm on July 15, 2018.
+
+This workshop welcomes papers in a broad area of AI for wildlife conservation. The goal of this workshop is to facilitate the exchange of ideas, presentation of recent or preliminary results, and discussion of promising directions for the use of AI to tackle wildlife conservation challenges. With an organizing committee with both academic researchers and companies involved in conservation, we hope to foster collaboration and technology transfer from research institutions to practitioners in the field. Please see the Call for Papers for more details.
+
+",2018
+"Call for papers
+
+Machine learning has achieved considerable successes in recent years, but these successes crucially rely on human machine learning experts, who select appropriate ML architectures (deep learning architectures or more traditional ML workflows) and their hyperparameters. As the complexity of these tasks is often beyond non-experts, the rapid growth of machine learning applications has created a demand for off-the-shelf machine learning methods that can be used easily and without expert knowledge. We call the resulting research area that targets progressive automation of machine learning AutoML.
+
+AutoML aims to automate many different stages of the machine learning process such as:
+
+    Model selection, hyper-parameter optimization, and model search
+
+    Neural architecture search
+
+    Meta learning and transfer learning
+
+    Automatic feature extraction / construction
+
+    Demonstrations (demos) of working AutoML systems
+
+    Automatic generation of workflows / workflow reuse
+
+    Automatic problem ingestion (from raw data and miscellaneous formats)
+
+    Automatic feature transformation to match algorithm requirements
+
+    Automatic detection and handling of skewed data and/or missing values
+
+    Automatic acquisition of new data (active learning, experimental design)
+
+    Automatic report writing (providing insight on automatic data analysis)
+
+    Automatic selection of evaluation metrics / validation procedures
+
+    Automatic selection of algorithms under time/space/power constraints
+
+    Automatic prediction post-processing and calibration
+
+    Automatic leakage detection
+
+    Automatic inference and differentiation
+
+        User interfaces and human-in-the-loop approaches for AutoML
+
+We especially encourage demos of working AutoML systems; demo proposals are submitted through an accompanying paper.
+
+All accepted papers will be presented as posters and in a 1-minute spotlight presentation. Two papers will also be invited for oral plenary presentation.",2018
+"Workshop Description
+
+As an increasing number of intelligent agents enter our lives and support us in a wider variety of tasks, the question of how we can interact with these agents in a simple and natural way becomes increasingly important. In the future, agents will not solely be recruited by us for a single, clearly restricted task, but agents will offer a broad range of support in different tasks. On the one hand, this will require that agents are able to learn when to support and how to mediate joint actions in a collaboration. On the other hand, agents must become able to break down goals into actionable subtasks and determine how to contribute towards overarching goals in a joint effort. These capabilities should scale towards mixed teams of humans and artificial agents in collaborative settings.As an increasing number of intelligent agents enter our lives and support us in a wider variety of tasks, the question of how we can interact with these agents in a simple and natural way becomes increasingly important. 
+
+Research on Shared Autonomy focuses on how autonomous intelligent systems can successfully interact and shape each other’s autonomy spaces. It is about how two or more autonomous agents mediate how they individually and jointly can contribute to an overarching goal, but also at the same time fulfill their individual goals. The workshop aims, first, at agent models (algorithms, representations, evaluation metrics, datasets) that allow for goal-oriented interactions. Secondly, the main focus of the workshop is on how such models can be learned and adapt open-ended, over time and on various time scales. In short, how can we build robots and virtual agents that successful realize collaboration between humans and robots.
+
+Impedance mismatches affect such aspects of teamwork as trust mechanisms, cooperative learning, understanding the division of cognitive labor, alignment of goals, adaptability of policies and plans, the granularity of policies and plans, and team roles.
+Topics
+
+We invite contributions targeting any areas of affecting teams that include humans and robots. Some of the topics of interest include, but are not limited to the following: 
+
+    Joint adaptation (and co-adaptation) of coordination patterns in agents
+    Representations for collaboration in HRI: intentions, goals, domain knowledge, beliefs about current situation
+    Communication and planning at differing levels of abstraction• Learning models of teammates
+    Transfer and incremental learning of task models, e.g., in cooperative tasks and in multi-agent systems
+    Recognizing and predicting actions and/or motions of other agents
+    Shared control in collaborative human-robot tasks: Roles, strategies, and the division of labor
+    Learning and modeling human-agent interaction, human instructions and collaborative behavior. Trust and transparency in decision making",2018
+"StarAI is currently provoking a lot of new research and has tremendous theoretical and practical implications. Theoretically, combining logic and probability in a unified representation and building general-purpose reasoning tools for it has been the dream of AI, dating back to the late 1980s. Practically, successful StarAI tools will enable new applications in several large, complex real-world domains including those involving big data, social networks, natural language processing, bioinformatics, the web, robotics and computer vision. Such domains are often characterized by rich relational structure and large amounts of uncertainty. Logic helps to effectively handle the former while probability helps her effectively manage the latter. We seek to invite researchers in all subfields of AI to attend the workshop and to explore together how to reach the goals imagined by the early AI pioneers.
+
+The focus of the workshop will be on general-purpose representation, reasoning and learning tools for StarAI as well as practical applications. Specifically, the workshop will encourage active participation from researchers in the following communities: satisfiability (SAT), knowledge representation (KR), constraint satisfaction and programming (CP), (inductive) logic programming (LP and ILP), graphical models and probabilistic reasoning (UAI), statistical learning (NIPS, ICML, and AISTATS), graph mining (KDD and ECML PKDD) and probabilistic databases (VLDB and SIGMOD). It will also actively involve researchers from more applied communities, such as natural language processing (ACL and EMNLP), information retrieval (SIGIR, WWW and WSDM), vision (CVPR and ICCV), semantic web (ISWC and ESWC) and robotics (RSS and ICRA).",2018
+"This workshop focuses on how to present papers from the coding perspective so that  reproducibility and replication of results in the Machine Learning community becomes easier.  Papers from the Machine Learning community are supposed to be a valuable asset. They can help to inform and inspire future research. They can be a useful educational tool for students. They are the driving force of innovation and differentiation in the industry, so quick and accurate implementation is really critical. On the research side they can help us  answer the most fundamental questions about our existence – what does it mean to learn and what does it mean to be human? Reproducibility, while not always possible in science (consider the study of a transient astrological phenomenon like a passing comet), is a powerful criteria for improving the quality of research. A result which is reproducible is more likely to be robust and meaningful and rules out many types of experimenter error (either fraud or accidental). There are many interesting open questions about how reproducibility issues intersect with the Machine Learning community:
+
+ 
+
+    How can we tell if papers in the Machine Learning community are reproducible even in theory? If a paper is about recommending news sites before a particular election, and the results come from running the system online in production – it will be impossible to reproduce the published results because the state of the world is irreversibly changed from when the experiment was run.
+    What does it mean for a paper to be reproducible in theory but not in practice? For example, if a paper requires tens of thousands of GPUs to reproduce or a large closed-off dataset, then it can only be reproduced in reality by a few large labs.
+    For papers which are reproducible both in theory and in practice – how can we ensure that papers published in ICML would actually be able to replicate if such an experiment were attempted?
+    What is the best way of publishing the code of the papers so that it is easy for engineers to implement it? Just publishing ipython notebooks it is not sufficient  and often hard to make it work in different platforms
+    A lot of people tend to understand an algorithm by looking at code and not by following equations. How can we come up with a framework of publishing that includes them. Is pseudocode the best we can do?
+    While scientific papers often do an importance analysis of the features, ML papers rarely do proper attribution on the importance of algorithmic components and hyperparameters. What is the best way to “unit-test” an algorithm and do attribution of the results to certain components and hyperparameters
+    What does it mean for a paper to have successful or unsuccessful replications?
+    Of the papers with attempted replications completed, how many have been published?
+    What can be done to ensure that as many papers which are reproducible in theory fall into the last category?
+    On the reproducibility issue, what can the Machine Learning community learn from other fields?
+    Part of ensuring reproducibility of state-of-the-art is ensuring fair comparisons, proper experimental procedures, and proper evaluation methods and metrics. To this end, what are the proper guidelines for such aspects of machine learning problems? How do they differ among subsets of machine learning?
+
+ 
+
+Our aim in the following workshop is to raise the profile of these questions in the community and to search for their answers. In doing so we aim for papers focusing on the following topics:
+
+    Analysis of the current state of reproducibility in machine learning. Some examples of this include experimental-driven investigations as in [1,2,3]
+    Investigations and proposals of proper experimental procedure and evaluation methodologies which ensure reproducible and fair comparisons in the novel literature [4]
+    Tools to help improve reproducibility
+    Evidence-driven works investigating the importance of reproducibility in machine learning and science in general
+    Connections between the reproducibility situation in Machine Learning and other fields
+    Rigorous replications, both failed and successful, of influential papers in the Machine Learning literature.
+    With the emergence of new fast prototyping systems such as TensorFlow, CNTK, PyTorch, MXNet, etc it is now much easier to present an implementation, but this is just the beginning. How can we build tools on top of them so that we can get an X-Ray of the algorithm that shows how the components work together.
+
+This workshop likely is relevant and interesting to participants of all co-located conferences: IJCAI-ECAI, AAMAS, and ICML. Reproducibility of research is something that affects most (if not all) scientific fields and is important to emphasize in all the co-located foci and fields. We are targeting ML Researchers/Practitioners from the industry and academia, who want to accelerate transition of research to industrial applications and try to reimplement the ideas from papers as a baseline for their own research.",2018
+"EMAS 2018 motivation and aims
+
+According to many scientists working in the AI field, one way to describe AI is as the study of agents that receive percepts from the environment and perform actions. The main unifying theme underlying AI is then the idea of an intelligent agent able to reason, act, interact, learn (see Stuart Russell and Peter Norvig, “Artificial Intelligence: A Modern Approach”, 2009). This metaphor makes intelligent agents appealing not only for the AAMAS audience, but also for the IJCAI-ECAI and ICML ones. In particular the EMAS workshop aims at being appealing for those researchers and practitioners interested in the theory and practice of engineering intelligent agents, i.e. in theories, architectures, languages, platforms, methodologies for designing, implementing, running intelligent agents.
+
+Despite the substantial body of knowledge and expertise developed in the design and development of multi-agent systems (MAS), the systematic development of large-scale and open MAS still poses many challenges. Even though various languages, models, techniques and methodologies have been proposed in the literature, researchers and developers are still faced with fundamental questions attaining their engineering, such as:
+
+    How to express the requirements for large-scale and open MAS and how to translate these requirements into agent goals?
+    Which architectures are most suitable for MAS of different domains?
+    How to seamlessly integrate AI and machine learning techniques into design/programming languages and tools for agent-based systems?
+    How to specify, design, implement, verify, test, validate and evolve MAS?
+    How to enable agent-based systems to deal with continuous change, for example in the operating environment or user requirements?
+    How to ensure/control global behavior of decentralized MAS?
+    How to seamlessly integrate MAS engineering with mainstream engineering models, languages, frameworks and tools?
+    What are the implications of MAS engineering in the context of continuous development and deployment?
+    What is the synergy between Cloud and Edge computing on the one hand and MAS engineering on the other hand?
+    How to scale with the complexity of real-world application domains?How can MAS help developing Cyber-Physical Systems and Internet-of-Things? Which development tools and frameworks are available/needed? Which processes and methodologies can integrate the above and provide a disciplined approach to rapid yet high-quality development of MAS?
+
+EMAS 2018 aims to gather researchers and practitioners in the domains of agent-oriented software engineering, programming multi-agent systems, declarative agent languages and technologies, machine learning, and AI in general, and AI and machine learning to present anddiscuss their research and emerging results in MAS engineering. The overall purpose of this workshop is to facilitate the cross-fertilization of ideas and experiences in the various fields to:
+
+    Enhance our knowledge and expertise in MAS engineering and improve the state-of-the art;
+    Define new directions for MAS engineering that are useful to practitioners, relying in results and recommendations coming from different but continuous research areas;
+    Investigate how practitioners can use or need to adapt established methodologies for the engineering of large-scale and open MAS;
+    Involve more master and PhD students.
+",2018
+"Call for Papers
+
+Exploration is a key component of reinforcement learning (RL). As RL scales up to address increasingly complex tasks, efficient exploration is increasingly important. Not only is exploration difficult, but it is difficult to even determine whether an agent is doing “good, intelligent exploration.”
+
+The goal of this workshop is to present and discuss exploration in RL and related fields. Invited speakers will share their perspectives on what it means to do “good, intelligent exploration” and researchers will share recent work in spotlight presentations and poster sessions. These perspectives on exploration include, but are not limited to:
+
+    Exploration in RL/bandits theory
+    Exploration in RL/bandits applications (e.g. education, healthcare, robotics)
+    Quantitative evaluation of exploration
+    Safety and risk awareness in exploration
+    Bayesian perspectives on exploration (e.g. exploration as information gain)
+    Curiosity, intrinsic motivation, intuitive physics, and cognitive neuroscience
+    Exploration as experimental design
+    Connections between causality and exploration
+    Meta-learning for learning to explore
+    Exploration as unsupervised/semi-supervised learning
+    Constrained exploration (e.g. robots with physical constraints)
+    Hierarchical exploration (e.g. with options)
+
+",2018
+"Federated AI for Robotics Workshop (FAIR) 2018
+
+The first joint workshop on robotics, merging the two robotics workshops: ICML Workshop on Machine Learning for Robotics, and AAMAS Workshop on Autonomous Robots and Multirobot Systems (ARMS), will be held in Stockholm, Sweden, as part of the Federated AI Meeting (joint IJCAI-ECAI/ICML/AAMAS conferences.
+
+
+The workshop is scheduled for Sunday, July 15 2018.
+
+The joint workshop is intended to bring together all researchers and practitioners from the Federated AI Meeting that have interest in robotics. The workshop aims at connecting ML, and autonomous single and multi robot communities with recent advances in their own and between those fields, for the main purpose of cross fertilization. Each community has been running its own successful workshop for years, and the joint workshop is intended for those communities to interact and present promising innovative research directions, and new results 
+
+Purpose and Scope
+
+Areas of particular recent cross-fertilization include (but are not limited to):
+
+    Market-based methods for coalition formation and task allocation
+
+    Machine learning in single and multi-robot settings, and applications of ML in manipulation, mobility, autonomous driving, flight and other areas of robotics
+
+    Unsupervised representation learning for robotics applications
+
+    Uncertainty propagation in deep neural networks
+
+    Human-robot interaction
+
+    Multi-robot teamwork
+
+    Human-agent-robot teamwork
+
+    Single and multi-robot path planning
+
+    Game-theoretic coordination
+
+    Analysis of large-scale multi-robot systems and swarms
+
+    Decision-theoretic single- and multi-robot planning
+
+    Imitation and learning by demonstration/example
+
+    Learning based human robot interaction, natural language instruction processing
+
+
+We especially welcome discussions and demonstrations of robotic applications and implemented robotic systems that utilize AI and related methods. 
+
+",2018
+"Much of AI only makes sense within the social systems they are embedded. In the real world, these social systems in their turn are created and maintained by the people and thus their cognitive abilities. Thus cognitive and social processes are highly interdependent – studying one in the absence of the other will mean that significant aspects are missed. In this workshop we want to explore the interactions between cognitive and social aspects of “socio-cognitive systems” – that is where the social and cognitive aspects are studied together. The workshop connects elements of IJCAI/ECAI, AAMAS and ICML. Of course, modelling these systems in terms of Multi-Agent Systems seems intuitive, but also would require special attention to the social concepts in these MAS. The cognitive abilities of the agents should adapt themselves to the social context and development, which connects this area to machine learning in a social context. The topic of the workshop also connects to many general AI themes as appearing at IJCAI/ECAI.
+
+The main attraction of this workshop is that the topics are all taken together in the context of socio-cognitive systems and not seen as separate topics to be studied in isolation. Instead of focusing on one side or other of this “coin”, SCS will look at theories and systems that strive to integrate the social and the cognitive into a single framework. The social reality in which SCS operate is very complex and moreover not static, but constantly changing based on human interactions. By understanding cognitive systems in their social setting and social systems in the light of their cognitive foundations, the SCS workshop looks for new understanding of both the cognitive and the social.
+Dates:
+
+    Deadline for submissions: 1st May 2018
+    Notification of acceptance: May/June 2018
+    Camera-ready copy of papers: June 2018
+    Workshop: 14 or 15 July 2018
+
+The Topic
+
+Much of AI only makes sense within the social systems they are embedded. In the real world these social systems in their turn are created and maintained by the people and thus their cognitive abilities.
+
+In this workshop, we want to explore the interactions between cognitive and social aspects of so-called socio-cognitive systems. The workshop connects elements of IJCAI/ECAI, AAMAS and ICML. Of course, modelling these systems in terms of Multi-Agent Systems seems intuitive, but would require special attention to the social concepts in these MAS. The cognitive abilities of the agents should adapt themselves to the social context and development, which connects this area to machine learning in a social context.
+
+The topics of the workshop include but are not limited to:
+
+    Social norms, conventions and practices
+    Institutions
+    Social networks and their dynamics
+    Group recognition and membership
+    Development of (social) Identity
+    Status and power relations
+    Plan coordination
+    Social agency
+    Social adaptation
+    Social self-regulation
+    The construction of social reality
+    Complex negotiations
+    Agreed naming and reference
+    Cultural coherence
+    Foundations of Communication
+    The construction and coordination of complex value-chains
+    Enculturation
+    Co-development of social context
+
+SCS welcomes high-quality research that goes beyond looking at social aspects of individual cognition or the properties of individuals in social systems and seeks to truly integrate these two layers. We particularly welcome interdisciplinary research, work that seeks to tackle areas that have been ignored before and novel approaches to relating the cognitive and the social. We are agnostic about the kind of approach or tools used, but favour approaches with an identifiable empirical or computational/formal content – both systems constructed for a particular goal in mind and models of observed or theoretical systems. However, the aim is to give new insights – into social science, cognitive science and Artificial Intelligence – merely formalising or implementing a system is not enough. We welcome contributions from a wide range of standpoints as long as this does not involve an effective reduction to only the individual or social levels.
+
+Papers will undergo the normal review process and are selected on the basis of quality. However, when choices have to be made we will try to spread the accepted papers over the main themes of the workshop. Interesting ideas are more important in this respect than detailed results on fringe topics.
+",2018
+"Artificial Intelligence (AI) systems often depend on information provided by multiple agents (human or otherwise), for example sensor data, crowdsourced human computation, or human trajectory inputs for inverse reinforcement learning. However, eliciting accurate data can be costly, either due to the effort invested in obtaining it, as in crowdsourcing, or due to the needed maintenance of automated systems, as in distributed sensor systems. Low quality data not only degrades the performance of AI systems, but may also pose safety concerns. Thus, it becomes important to verify the correctness of data and be smart in how data is aggregated, and to provide incentives to promote effort and high-quality data. The aim of the workshop is to encourage discussions and contributions on the following aspects:
+
+    How to collect high quality and credible information for AI systems, from the perspective of designing game-theoretical mechanisms?
+    How to make use of AI and machine learning to design systems that will facilitate the collection of high quality data?
+
+",2018
+"This ICML workshop seeks to broaden the role of geometric models and thinking in machine-learning research.
+
+The interplay between machine learning and geometry is an active field of research drawing the attention of researchers from many fields as it offers not only beautiful mathematical and statistical theory but also substantial impact on important real-world problems in machine learning. Examples of this interplay include, but are not limited to:
+
+    geometric insights into deep learning (helping us to better understand and improve these models);
+    statistical models that respect and exploit the constraints of geometric data (statistics on manifolds);
+    (Riemannian) manifold learning;
+    viewing probability distributions as points on a nonlinear manifold (information geometry);
+    optimization over nonlinear manifolds;
+    Wasserstein spaces and their applications;
+    understanding the effect of encoding group invariances (e.g. rotation invariance) on the intrinsic geometry of the data space, which becomes a quotient space.
+
+This ICML workshop is co-located with ICML, IJCAI and AAMAS in Stockholm.",2018
+"Abstract
+
+Reinforcement Learning (RL) agents traditionally rely on hand-designed scalar rewards to learn how to act. The more complex and diverse environments and tasks become, the more difficult it may be to engineer rewards that elicit desired behavior. Designing rewards in multi-agent settings with adversaries or co-operative allies can be even more complicated. Experiment designers often have a goal in mind and then must reverse engineer a reward function that will likely lead to it. This process can be difficult, especially for non-experts, and is susceptible to reward hacking---unexpected and undesired behavior that achieves high reward but does not capture the essence of what the engineer was trying to achieve. Moreover, hand-designed reward functions may be brittle, as slight changes in the environment may yield large, and potentially unsafe, alterations in agent behavior.
+
+The community has addressed these problems through many disparate approaches including reward shaping, intrinsic rewards, hierarchical reinforcement learning, curriculum learning, and transfer learning. Another approach is to avoid designing scalar rewards altogether, and rather focus on designing goals, for example, through inverse reinforcement learning, imitation learning, target images, or multimodal channels such as speech and text.
+
+Each of these approaches are important for obtaining desirable behavior. As such, this workshop will consider all topics related to designing goals for reinforcement learning. The focus will not only be on how to better specify goals in the traditional manner, but also other ways that goals can be defined, and the problems that can be encountered through ill-defined goals.",2018
+"Description
+
+We invite submissions to the Joint ICML and IJCAI Workshop on Computational Biology to be held in Stockholm SWEDEN (July 10-15, 2018). In Biology, there have been credible developments in high-throughput technologies such as next-generation sequencing, CyToF and single-cell sequencing that enable large-scale data generation from many interesting biological systems such as cancer, autoimmune diseases, and human development. However, the scale of these new data make it challenging to analyze with traditional computational biology methods. In contrast, it presents an opportunity for machine learning practitioners to make significant contributions to our knowledge about human health and disease. It therefore seems befitting to bring together researchers engaged in applying ML in Computational Biology to discuss recent advances in this interdisciplinary field and ongoing developments.
+
+We have invited several distinguished speakers from the Computational Biology community to discuss and present their current research. We also invite extended abstracts, long papers and highlight papers dealing with novel algorithms and computational approaches that are especially robust and scalable to high-dimensional data defined by tens of thousands of features as well as thousands to millions of observations. and provide interpretable relationships in biological systems. These can be applications of ML methods or bioinformatics approaches to biological and biomedical data.
+
+Papers will be presented in poster format and some will be selected for oral presentation. Through invited talks and presentations by the participants, this workshop will bring together current advances in Computational Biology and set the stage for continuing interdisciplinary research discussions.
+
+
+",2018
+"About the Workshop:
+
+
+One of the most challenging and open problems in Artificial Intelligence (AI) is that of Lifelong Learning:
+
+​
+
+“Lifelong Learning is the continued learning of tasks, from one or more domains, over the course of a lifetime, by a lifelong learning system. A lifelong learning system efficiently and effectively (1) retains the knowledge it has learned; (2) selectively transfers knowledge to learn new tasks; and (3) ensures the effective and efficient interaction between (1) and (2).”
+
+
+Lifelong learning is still in its infancy. Many issues currently exist such as learning general representations, catastrophic forgetting, efficient knowledge retention mechanisms and hierarchical abstractions. Much work has been done in the Reinforcement Learning (RL) community to tackle different elements of lifelong learning. Active research topics include hierarchical abstractions, transfer learning, multi-task learning and curriculum learning. With the emergence of powerful function approximators such as in Deep Learning, we feel that now is a perfect time to provide a forum to discuss ways to move forward and provide a truly general lifelong learning framework, using RL-based algorithms, with more rigor than ever before. This workshop will endeavor to promote interaction between researchers working on the different elements of lifelong learning to try and find a synergy between the various techniques.",2018
+"Many of the most impactful applications of machine learning are not just about prediction, but are about putting learning systems in control of selecting the right action at the right time. Examples of such systems range from search engines that act by displaying a ranking, to recommender systems, ad placement systems, medical decision support systems, conversational systems, automated trading platforms, computer games, and cyber-physical systems like self-driving cars. This focus on acting requires some causal understanding of the world, since actions are interventions that change the distribution of data unlike in standard prediction problems. This gives rise to challenging counterfactual and causal prediction problems. However, causality is only a means to an end - namely being able to take the right actions; one typically does not have the burden of providing strong proofs of causal discovery. 
+
+Another interesting property is that these systems are both producers and users of data. In particular, the logs of the selected actions and their outcomes (e.g., derived from clicks, ratings, reaction times, or revenue) can provide valuable training data for learning the next generation of the system, giving rise to some of the biggest datasets we have collected. What makes machine learning in these settings challenging is that these system logs do not fit the standard supervised learning setting, since the system in operation biases the log data through the actions it selects and outcomes remain unknown for the actions not taken. Instead, learning methods have to reason about how changes to the system will affect future outcomes.
+
+Recent successes in establishing the theoretical foundations and designing practical algorithms that include counterfactual reasoning and estimation have given rise to an emerging research area, which this workshop aims to fully develop. In particular, this workshop will bring together researchers working on the following topics not only from the ICML community, but naturally including IJCAI-ECAI around the topic of causal inference and AAMAS around autonomous systems:
+
+    Predicting counterfactual outcomes
+    Estimation of (conditional) average treatment effects
+    Contextual bandit algorithms and on-policy learning
+    Batch/offline learning from bandit feedback
+    Off-policy evaluation and learning
+    Interactive experimental control vs. counterfactual estimation from logged experiments
+    Online A/B-testing vs. offline A/B-testing
+    De-biasing observational data and feedback cycles
+    Fairness of actions and causal aspects of fairness
+    Applications in online systems (e.g. search, recommendation, ad placement)
+    Applications in physical systems (e.g. cars, smart homes)
+    Applications in medicine (e.g. personalized treatment, clinical trials)",2018
+"Overview
+
+Nonconvex optimization has become a core topic in modern machine learning (ML). A wide variety of ML models and subfields leverage nonconvex optimization, including deep learning, reinforcement learning, matrix/tensor factorization models, and probabilistic (Bayesian) models. Classically, nonconvex optimization was widely believed to be intractable due to worst-case complexity results. However, recently the community has seen rapid progress in both the empirical training of nonconvex models and the development of their theoretical understanding. 
+
+
+Advances on the theoretical side range from understanding the landscape of various nonconvex models to efficient algorithms in the offline, stochastic, parallel and distributed settings utilizing zeroth, first, or second-order information. Recent guarantees not only ensure finding stationary point (points where the gradient vanishes), but also attack problems raised by spurious local minima and saddle points (locally and globally). In parallel, the field has also witnessed significant progress driven by practitioners. Novel nonconvex models such as residual networks and LSTMs, as well as methods such as batch normalization and ADAM for accelerating their training, have become state-of-the-art empirical methods.
+
+
+This workshop will bring together experts in machine learning, artificial intelligence, and optimization to tackle some of the conceptual and practical bottlenecks that are hindering progress and to explore new directions. Examples include (but are not limited to) implicit regularization, landscape design, homotopy methods, adaptive algorithms and robust optimization. The workshop hopes to facilitate cross-domain discussion and debate on topics such as these and to reshape this rapidly progressing field.
+
+
+
+",2018
+"Overview
+Planning and learning are both core areas of Artificial Intelligence. The reinforcement learning community has mostly relied on approximate dynamic programming and Monte-Carlo tree search as its workhorses for planning, while the field of planning has developed a diverse set of representational formalisms and scalable algorithms that are currently underexplored in learning approaches.  Further, the planning community could benefit from the tools and algorithms developed by the machine learning community, for instance to automate the generation of planning problem descriptions.
+
+The purpose of this workshop is to encourage discussion and collaboration between the communities of planning and learning. Furthermore, we also expect that agents and general AI researchers are interested in the intersection of planning and learning, in particular those that focus on intelligent decision making. As such, the joint workshop program is an excellent opportunity to gather a large and diverse group of interested researchers.",2018
+"Call for Papers
+The ever-increasing size and accessibility of vast music libraries has created a demand more than ever for machine learning systems that are capable of understanding and organizing this complex data. Further, the whole music ecosystem --from creation to consumption-- is being disrupted to its core by current developments in machine learning, and in particular recent advances in deep learning. The topics discussed in the workshop will span a variety of music generation and recommender systems challenges including cross-cultural recommendation, content-based audio processing and representation learning, automatic music tagging, synthesis, style-transfer, and evaluation.
+
+We invite the research community, from both industry and academia, to submit 2-page extended abstracts on topics such as:
+
+    Music recommendation and discovery
+    AI-based music creation and machine creativity
+    Content-based and multimodal music recommender systems
+    Transfer learning and semi-supervised learning for music discovery
+    Audio and semantic content-based machine learning (e.g., genre, mood, style, rhythm)
+    Browsing and visualization of large music and listener datasets
+    Similarity metric learning
+    Learning to rank
+    Evaluation methodology
+    Deep learning applications for computational music research
+    Modeling hierarchical and long term music structures using deep learning 
+    Cognitive models of music
+    Modeling ambiguity and preference in music
+    Software frameworks and tools for deep learning in music 
+    Automatic classification of music (audio and MIDI)
+    Style-based interpreter recognition
+    Automatic composition and improvisation
+    Automatic score alignment
+    Polyphonic pitch detection
+    Chord extraction
+    Pattern discovery
+    Expressive performance modeling 
+
+
+",2018
+"Over the past two decades, there has been an increasing focus on the issue of agent incentives in decentralized and centralized AI systems. The issues come up when designing preference aggregation mechanisms and markets; computing equilibria, and bidding strategies; facilitating cooperation among agents, and fairly dividing resources.
+
+AI^3 is a confederated workshop which is part of the Federated AI Meeting (FAIM), co-located with AAMAS, ICML, and IJCAI-ECAI 2018 in Stockholm, Sweden. The workshop focuses on agents and incentives in AI. In particular on game theory (cooperative and non-cooperative), social choice, and agent-mediated e-commerce aspects of AI systems. 
+
+The AI^3 workshop is a one-time collaboration of several workshops which are generally co-located with major AI conferences, and consider different aspects of the general interplay between AI and economics.
+
+The workshop will feature technical sessions of contributed talks, invited talks by prominent members of the community, and other activities on which more information will be revealed later on.",2018
+"Welcome to The Joint International Workshop on Social Influence Analysis and Mining Actionable Insights from Social Networks (SocInf+MAISoN 2018), co-located with the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI 2018).
+
+After three successful editions of SocInf in Buenos Aires (2015), New York (2016) and Melbourne (2017) and a successful previous edition of MAISoN in Cambridge (2017) the two workshops merge together this year in Stockholm, Sweden, hosted by the leading conferences on the thrilling field of Artificial Intelligence.
+
+In all previous editions, both workshops attracted a number of high-quality contributions spanning a variety of issues and techniques related to social networks analysis. The workshops also included exciting invited talks regarding social networks analysis.
+
+We look forward to seeing you in Stockholm !!",2018
+"Overview
+
+In recent years there has been resurgence of interest in deep generative models (DGMs). The emerging approaches, such as VAEs, GANs, GMMNs, auto-regressive neural networks, and many of their variants and extensions, have led to impressive results in a myriad of applications, such as image generation and manipulation, text generation, disentangled representation learning, and semi-supervised learning. In fact, research on DGMs has a long history. Early forms of such models date back to works on hierarchical Bayesian models and neural network models such as Helmholtz machines, originally studied in the context of unsupervised learning and latent space modeling. Despite recent advances, many foundational aspects of deep generative models are relatively unexplored, including theoretical properties, effective algorithms for learning and inference, and deployment in real-world applications. This workshop aims to be a platform for exchanging ideas regarding both theoretical foundations and applications of DGMs, identifying key challenges in the field, and establishing the most exciting future directions for research into DGMs.",2018
+"About
+
+
+Deep learning led to a significant breakthrough in many applications in computer vision and machine learning. However, only little is known about the theory behind this successful paradigm. This workshop will discuss the recent achievements with respect to the theoretical understanding of deep networks.  
+
+
+ICML 2018
+
+The theory of deep learning 2018 workshop will be held as a part of the 35th International Conference on Machine Learning (ICML), at Stockholmsmässan, Stockholm, Sweden. Please check the main conference website for information about registration, schedule, venue, and travel arrangements.
+",2018
+"Overview
+
+Exact inference is often intractable for many widely used classes of probabilistic models, including Bayesian networks, Markov random fields, restricted Boltzmann machines, topic models, and Dirichlet processes. Approximate inference algorithms are a commonly used alternative, but may be slow or inaccurate in practice, and few provide guarantees on their results. The computational complexity of inference guarantees that no algorithm can provide accurate answers for all models. This makes learning harder as well, since many learning algorithms rely on computing expectations in the model in each iteration.
+
+However, there are tractable (or tractably approximable) classes of probabilistic models where exact or approximate inference algorithms are guaranteed to work well. Early work on tractable probabilistic models focused on graphical models with low treewidth, but in recent years a number of methods have been developed to exploit other types of structure. For example, arithmetic circuits exploit context-specific independence and determinism; sum-product networks and other latent variable models exploit mixtures; graphical models with supermodular potentials support exact MAP inference; graphical models with high girth or weak potentials give bounds on the performance of approximate inference methods; determinantal point processes support efficient inference and sampling of diverse sets; and exchangeable probabilistic models exploit symmetries among the parameters and evidence to perform lifted inference.
+
+Many challenges remain, including defining broader, more powerful classes of tractable probabilistic models; developing models in which different approximate inference algorithms have performance guarantees; understanding the relationships among different model classes; designing efficient algorithms for learning them; exploring tradeoffs between accuracy and efficiency; developing and formalizing alternate definitions of tractability for exact and approximate inference; and applying them to more real-world problems. Progress in this area will make probabilistic models more reliable, more effective, more explainable (cf. DARPA XAI program) and easier to use in real-world settings.
+
+This workshop will bring together researchers working on the different ways in which representation, tractable inference and learning interact, including different types of probabilistic models, neural models, and algorithms. Our goal is for the workshop to lead to a better understanding of the state-of-the-art, the relationships among different approaches, and the most important open challenges. It will also foster collaborations among different research groups pursuing similar or complementary ideas.
+Examples of Tractable Probabilistic Models
+
+    Graphical models with low treewidth
+    Associative Markov networks
+    Markov networks with submodular potentials
+    Mixtures of tractable models
+    Latent tree models
+    Determinantal point processes
+    Arithmetic circuits
+    Sum-product networks
+    Bounded girth graphical models
+    Tractable Markov logic networks
+    Relational sum-product networks
+    Exchangeable variable models
+    Lifted graphical models
+    Markov networks with fast-mixing
+
+Suggested Topics
+
+The following is a list of non-exhaustive topics relevant to the workshop. We invite submissions pertaining to any of these topics, or other work relevant to tractable probabilistic models.
+
+    New classes of tractable models
+    Theoretical and empirical analysis of tractable models
+    Learning algorithms for tractable models
+    Tractable learning algorithms for probabilistic models
+    Approximate inference algorithms with guarantees on approximation quality
+    Applications of tractable probabilistic methods",2018
+"Trust is important in many kinds of interactions, including direct or computer-mediated human interaction, human-computer interaction and among social agents; it characterizes those elements that are essential in social reliability. It also informs the selection of partners for successful multiagent coordination (for example, in robotics applications). Trust is more than communication that is robust against repudiation or interference. The reliability of information about the status of a trade partner, for example, is only partly dependent on secure communication.
+
+With the growing prevalence of social interaction through electronic means, trust, reputation, privacy and identity become more and more important. Trust is not just a simple, monolithic concept; it is multi-faceted, operating at many levels of interaction, and playing many roles. Another growing trend is the use of reputation mechanisms, and in particular the interesting link between trust and reputation. Many computational and theoretical models and approaches to reputation have been developed in recent years (for ecommerce, social networks, blogs, etc.). Further, identity and associated trustworthiness must be ascertained for reliable interactions and transactions. Trust is foundational for the notion of agency and for its defining relation of acting on behalf of. It is also critical for modeling and supporting groups and teams, for both organization and coordination, with the related trade-off between individual utility and collective interest. The electronic medium seems to weaken the usual bonds of social control and the disposition to cheat grows stronger: this is yet another context where trust modeling is critical.
+
+The aim of the workshop is to bring together researchers (ideally from different disciplines) who can contribute to a better understanding of trust and reputation in agent societies. We welcome submissions of high-quality research addressing issues that are clearly relevant to trust, deception, privacy, reputation, security and control in agent-based systems, from theoretical, applied and interdisciplinary perspectives. Submitted contributions should be original and not submitted elsewhere. Papers accepted for presentation must be relevant to the workshop, and to demonstrate clear exposition, offering new ideas in suitable depth and detail. 
+
+The scope of the workshop includes (but is not limited to):
+
+    Trust modeling in multiagent systems
+    Addressing misinformation in online systems
+    Engendering trust in AI systems from human users
+
+ With more specific subtopics including (but not limited to):
+
+    Trust and risk-aware decision making
+    Game-theoretic models of trust
+    Trust in the context of adversarial environments
+    Deception and fraud, and its detection and prevention
+    Intrusion resilience in trusted computing
+    Reputation mechanisms
+    Trust within socio-technical systems and organizations
+    Socio-cognitive models of trust
+    Trust within service-oriented architectures
+    Human or agent trust in agent partners
+    Trust within social networks
+    AI solutions to improve online fact checking and critical thinking
+    Detecting and preventing collusion
+    Improving transparency in AI systems
+    Addressing bias in AI systems
+    Detecting and addressing mistrust of AI systems from human users
+    Realworld applications of multiagent trust modeling
+
+
+",2018
+"We  accept both short paper (4 pages) and long paper (8 pages) submissions.  A few papers may be selected as oral presentations, and the other accepted papers will be presented in a poster session. There will be no proceedings for this workshop, however, upon the author’s request, accepted contributions will be made available in the workshop website. Submission is single-blind and open to already published work.
+
+We are interested in submissions that deal with the issue of credit assignment: how the parameters, actions, or states of a system can be changed to produce some downstream effect.  The work can be experimental, analytical, or theoretical.  We are also open to work in progress.  Synthetic Gradients, Sparse Attentive Backtracking,  Equilibrium Propagation and UORO are examples of the kinds of work that we'd consider to be highly relevant
+
+We welcome submissions related to the following topics: 
+
+    Alternatives to Backpropagation for training deep networks
+    New ways of assigning credit to actions in reinforcement learning (e.g. temporal difference learning, eligibility traces)
+    Biologically plausible methods for learning
+    Exploration of the properties of credit assignment through gradient descent.  
+
+We also identify several pieces of previous work related to credit assignment: 
+
+    Synthetic Gradients
+    Sparse Attentive Backtracking
+    Equilibrium Propagation
+    Unbiased Online Recurrent Optimization (UORO)
+    Evolution Strategies
+
+Workshop Description
+
+Deep Learning has enabled massive improvements in areas as diverse as computer vision, text understanding, and reinforcement learning. A key driver of this progress has been the backpropagation algorithm. Credit assignment is ultimately about how changing the model’s behavior could have led to improved outcomes.  
+
+
+Credit assignment is a critical part of Deep Learning and Reinforcement Learning, yet the field has spent surprisingly little effort thinking about its flavors. No complete solutions exist and those that exist stay well short of the way humans solve credit assignment problems.  While backpropagation has been highly successful, it has profound limitations. One is that the time to compute estimates of the gradient does not scale well in the size of the computational graph. Another is that there is no way to perform online parameter estimation without truncation (bptt), which leads to biased estimates of the gradient.  
+
+
+This research problem, while in its infancy, has already seen significant contributions.  For example, the Synthetic Gradient algorithm (Jaderberg 2016) aims to modify the training procedure to allow for decoupled updates.  The “Unbiased Online Recurrent Optimization” algorithm (Tallec 2016) showed that RNNs can be learned in an online fashion by using a low-rank approximation to forward-mode automatic differentiation. The Sparse Attentive Backtracking algorithm (Ke 2017) modifies the backpropagation algorithm to be efficient for long sequences by using a hard attention to mechanism to selectively backtrack through a small number of salient time steps in the past.  We believe that a workshop would be a great place to allow these contributions and more novel ideas to shine. 
+
+
+Even coming up with better formal definitions for the credit assignment problem would be an important potential outcome of this workshop.  Additionally, the relationship between approaches from the Deep Learning and Reinforcement Learning communities is not well understood. As such, it seems that rethinking credit assignment is underappreciated,  under-researched, and promises to improve algorithms considerably. Rethinking credit assignment will require the involvement of many communities spanning cognitive science, computational complexity, and deep learning.  
+",2018
